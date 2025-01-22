@@ -36,5 +36,5 @@ I think the whole system could be done with an ESP32 or ESP8266 which is way mor
 
 <div align="center">
   <h2 align="center">My Home Assistant Example</h2>
-<img align="center" alt="Diagramm" src="HA-with Yooda-Remote" >
+<img align="center" alt="Diagramm" src="HA-with Yooda-Remote.png" >
 </div>
